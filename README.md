@@ -1,3 +1,9 @@
+# ⚠️ DEPRECATED
+
+This repo moved to [github.com/storacha/upload-service](https://github.com/storacha/upload-service/tree/main/packages/cli). Please only use this repo to backport changes to `@web3-storage/w3cli`.
+
+---
+
 # `w3cli`
 
 💾 the `w3` command line interface.
